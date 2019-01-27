@@ -19,6 +19,8 @@ package com.troy.git;
  * @see 	 
  */
 public class Apple {
-
+	public static void main(String[] args) {
+		System.out.println("left......");
+	}
 }
 
