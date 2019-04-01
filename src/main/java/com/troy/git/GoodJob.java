@@ -6,4 +6,7 @@ package com.troy.git;
  * @create: 2019-04-01 10:56
  */
 public class GoodJob {
+    public static void main(String[] args) {
+
+    }
 }
