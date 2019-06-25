@@ -20,7 +20,7 @@ package com.troy.git;
  */
 public class TestGit {
     public static void main(String[] args) {
-        System.out.println("hello git");
+        System.out.println("hello git 测试测试 fork ");
     }
 }
 
